@@ -1,7 +1,9 @@
 frames_hummingbird/
 frames_wave/
 merged/
-threshold/
+threshold_frames_hummingbird/
+threshold_frames_wave/
+test/
 
 noise.png
 temp.png
