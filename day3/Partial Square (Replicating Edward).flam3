@@ -1,0 +1,155 @@
+<flames>
+<flame version="EMBER-LNX-22.21.4.2" time="0" name="Animation_1" size="1920 1080" center="0 0" scale="275" rotate="0" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="200" sub_batch_size="20480" fuse="5" rand_range="1" background="0 0 0" brightness="15" gamma="4" highlight_power="1" logscale_k2="0" vibrancy="0" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0" cam_dof="0" blur_curve="0" palette_mode="step" interpolation="linear" interpolation_type="log" plugins="linear" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="2.5" color="0.596146" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="0.47 6.99382e-08 -6.99382e-08 0.47 -1 -1" opacity="1"/>
+   <xform weight="2.5" color="0.991945" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" linear="1" coefs="-1.74846e-08 -0.47 0.47 -1.74846e-08 -1 1" opacity="1"/>
+   <xform weight="1" color="0.940651" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="5.24537e-08 0.47 -0.47 5.24537e-08 1 -1" opacity="1"/>
+   <xform weight="0.3" color="0.580685" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="0.38 -2.09815e-07 2.09815e-07 0.38 0 0" opacity="1"/>
+   <palette count="256" format="RGB">
+      295B242E572B355C313C5E394566435B7C536B8A60728A5A
+      607C454D6A3546642E375725264718183A0F0D2F0A052602
+      0621000F250115270B102E09172F041D390E2A411636511F
+      335928365D2A3A5C303E612F3E5A294357203F541E3A5224
+      3E592C425A304B5D2D4560303A5C283752182F451024370A
+      1730040E2E05092A00052800012A010930010A3400163A02
+      1E3D072A3E10334417384A1D384C21314D1D294A18224A14
+      2446131F441924451B2C411A304524354F2C36572B385B2E
+      345D2F335729385224374F1F2F47122D440C273F12223E18
+      1F401922421D243D1F2B461F2A552A2854282448241A3F1F
+      1B3E161C3F141A3E1119410C1F4810274C1630561B2E5924
+      2D59232B561B20511A1B4C151A4609133F030F37080F3504
+      0C3607123C0E1F400F264B1931562B365D313A5D3736592E
+      32522228481A2140101A400B17400818410B224714344920
+      3F502A515C2C5C71387B885688905F85A68E6A8963698360
+      5D7B5E4A6D4C4266433C69403A693F3C693F3D66383A602D
+      2F511E2348181D3E161C3E12193F0B1F3F102741142D4619
+      3651273B572F445D35486133445F323A5C2B3353222B511C
+      1F4A13193E0B1434050C3004082B00042601032101002300
+      0224010A27020F2E07123509183B081F450B26451427431A
+      2C471E2F5029365C303E5E383F633F45633D44653A456637
+      4B62354D5F324C63394E6C475C7B526685546A885C617D52
+      516B424B65383F5F3A386135365D283558222E501D294715
+      223C131A38101332100F320C0C2B090E27040C2A04082D07
+      0B30051034091B370E243D0D2B4716345521365C3039633B
+      3E673F3D623E33613D335E333352282D4C18274215264313
+      1E40161C43171C4B181C4C161D491618430D123B0F13360C
+      14350A0D37090B35070C2F050B2A081130060F320812340B
+      17310D1B311117331412350F12350D153C101D3D13264614
+      2E5322365B2843662E4D65314C6035535D3B4B5F444C613C
+      4C653B4A69404C6D494C704A49754A607D4D6980506A7C50
+      617D50596F48556D495D7854647E5E68835C617F595D724D
+   </palette>
+   <edit date="Thu Feb 10 22:11:24 -0800 2022" nick="SethT" id="SethT" action="edit">
+      <edit date="Thu Feb 10 21:59:10 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="1">
+         <edit date="Thu Feb 10 21:50:07 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+            <edit date="Thu Feb 10 21:46:58 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+               <edit date="Thu Feb 10 21:32:23 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+                  <edit filename="" index="0"/>
+               </edit>
+            </edit>
+         </edit>
+      </edit>
+   </edit>
+</flame>
+<flame version="EMBER-LNX-22.21.4.2" time="1" name="Animation_2" size="1920 1080" center="0 0" scale="275" rotate="0" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="200" sub_batch_size="20480" fuse="5" rand_range="1" background="0 0 0" brightness="15" gamma="4" highlight_power="1" logscale_k2="0" vibrancy="0" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0" cam_dof="0" blur_curve="0" palette_mode="step" interpolation="linear" interpolation_type="log" plugins="linear" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="2.5" color="0.596146" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="0.47 6.99382e-08 -6.99382e-08 0.47 -1 -1" opacity="1"/>
+   <xform weight="2.5" color="0.991945" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="-1.74846e-08 -0.47 0.47 -1.74846e-08 -1 1" opacity="1"/>
+   <xform weight="1" color="0.940651" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" linear="1" coefs="5.24537e-08 0.47 -0.47 5.24537e-08 1 -1" opacity="1"/>
+   <xform weight="0.3" color="0.580685" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="0.38 -2.09815e-07 2.09815e-07 0.38 0 0" opacity="1"/>
+   <palette count="256" format="RGB">
+      295B242E572B355C313C5E394566435B7C536B8A60728A5A
+      607C454D6A3546642E375725264718183A0F0D2F0A052602
+      0621000F250115270B102E09172F041D390E2A411636511F
+      335928365D2A3A5C303E612F3E5A294357203F541E3A5224
+      3E592C425A304B5D2D4560303A5C283752182F451024370A
+      1730040E2E05092A00052800012A010930010A3400163A02
+      1E3D072A3E10334417384A1D384C21314D1D294A18224A14
+      2446131F441924451B2C411A304524354F2C36572B385B2E
+      345D2F335729385224374F1F2F47122D440C273F12223E18
+      1F401922421D243D1F2B461F2A552A2854282448241A3F1F
+      1B3E161C3F141A3E1119410C1F4810274C1630561B2E5924
+      2D59232B561B20511A1B4C151A4609133F030F37080F3504
+      0C3607123C0E1F400F264B1931562B365D313A5D3736592E
+      32522228481A2140101A400B17400818410B224714344920
+      3F502A515C2C5C71387B885688905F85A68E6A8963698360
+      5D7B5E4A6D4C4266433C69403A693F3C693F3D66383A602D
+      2F511E2348181D3E161C3E12193F0B1F3F102741142D4619
+      3651273B572F445D35486133445F323A5C2B3353222B511C
+      1F4A13193E0B1434050C3004082B00042601032101002300
+      0224010A27020F2E07123509183B081F450B26451427431A
+      2C471E2F5029365C303E5E383F633F45633D44653A456637
+      4B62354D5F324C63394E6C475C7B526685546A885C617D52
+      516B424B65383F5F3A386135365D283558222E501D294715
+      223C131A38101332100F320C0C2B090E27040C2A04082D07
+      0B30051034091B370E243D0D2B4716345521365C3039633B
+      3E673F3D623E33613D335E333352282D4C18274215264313
+      1E40161C43171C4B181C4C161D491618430D123B0F13360C
+      14350A0D37090B35070C2F050B2A081130060F320812340B
+      17310D1B311117331412350F12350D153C101D3D13264614
+      2E5322365B2843662E4D65314C6035535D3B4B5F444C613C
+      4C653B4A69404C6D494C704A49754A607D4D6980506A7C50
+      617D50596F48556D495D7854647E5E68835C617F595D724D
+   </palette>
+   <edit date="Thu Feb 10 22:11:24 -0800 2022" nick="SethT" id="SethT" action="edit">
+      <edit date="Thu Feb 10 21:59:10 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="1">
+         <edit date="Thu Feb 10 21:50:07 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+            <edit date="Thu Feb 10 21:46:58 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+               <edit date="Thu Feb 10 21:32:23 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+                  <edit filename="" index="0"/>
+               </edit>
+            </edit>
+         </edit>
+      </edit>
+   </edit>
+</flame>
+<flame version="EMBER-LNX-22.21.4.2" time="2" name="Animation_3" size="1920 1080" center="0 0" scale="275" rotate="0" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="200" sub_batch_size="20480" fuse="5" rand_range="1" background="0 0 0" brightness="15" gamma="4" highlight_power="1" logscale_k2="0" vibrancy="0" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0" cam_dof="0" blur_curve="0" palette_mode="step" interpolation="linear" interpolation_type="log" plugins="linear" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="2.5" color="0.596146" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" linear="1" coefs="0.47 6.99382e-08 -6.99382e-08 0.47 -1 -1" opacity="1"/>
+   <xform weight="2.5" color="0.991945" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="-1.74846e-08 -0.47 0.47 -1.74846e-08 -1 1" opacity="1"/>
+   <xform weight="1" color="0.940651" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="5.24537e-08 0.47 -0.47 5.24537e-08 1 -1" opacity="1"/>
+   <xform weight="0.3" color="0.580685" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" linear="1" coefs="0.38 -2.09815e-07 2.09815e-07 0.38 0 0" opacity="1"/>
+   <palette count="256" format="RGB">
+      295B242E572B355C313C5E394566435B7C536B8A60728A5A
+      607C454D6A3546642E375725264718183A0F0D2F0A052602
+      0621000F250115270B102E09172F041D390E2A411636511F
+      335928365D2A3A5C303E612F3E5A294357203F541E3A5224
+      3E592C425A304B5D2D4560303A5C283752182F451024370A
+      1730040E2E05092A00052800012A010930010A3400163A02
+      1E3D072A3E10334417384A1D384C21314D1D294A18224A14
+      2446131F441924451B2C411A304524354F2C36572B385B2E
+      345D2F335729385224374F1F2F47122D440C273F12223E18
+      1F401922421D243D1F2B461F2A552A2854282448241A3F1F
+      1B3E161C3F141A3E1119410C1F4810274C1630561B2E5924
+      2D59232B561B20511A1B4C151A4609133F030F37080F3504
+      0C3607123C0E1F400F264B1931562B365D313A5D3736592E
+      32522228481A2140101A400B17400818410B224714344920
+      3F502A515C2C5C71387B885688905F85A68E6A8963698360
+      5D7B5E4A6D4C4266433C69403A693F3C693F3D66383A602D
+      2F511E2348181D3E161C3E12193F0B1F3F102741142D4619
+      3651273B572F445D35486133445F323A5C2B3353222B511C
+      1F4A13193E0B1434050C3004082B00042601032101002300
+      0224010A27020F2E07123509183B081F450B26451427431A
+      2C471E2F5029365C303E5E383F633F45633D44653A456637
+      4B62354D5F324C63394E6C475C7B526685546A885C617D52
+      516B424B65383F5F3A386135365D283558222E501D294715
+      223C131A38101332100F320C0C2B090E27040C2A04082D07
+      0B30051034091B370E243D0D2B4716345521365C3039633B
+      3E673F3D623E33613D335E333352282D4C18274215264313
+      1E40161C43171C4B181C4C161D491618430D123B0F13360C
+      14350A0D37090B35070C2F050B2A081130060F320812340B
+      17310D1B311117331412350F12350D153C101D3D13264614
+      2E5322365B2843662E4D65314C6035535D3B4B5F444C613C
+      4C653B4A69404C6D494C704A49754A607D4D6980506A7C50
+      617D50596F48556D495D7854647E5E68835C617F595D724D
+   </palette>
+   <edit date="Thu Feb 10 22:11:24 -0800 2022" nick="SethT" id="SethT" action="edit">
+      <edit date="Thu Feb 10 21:59:10 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="1">
+         <edit date="Thu Feb 10 21:50:07 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+            <edit date="Thu Feb 10 21:46:58 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+               <edit date="Thu Feb 10 21:32:23 -0800 2022" nick="SethT" id="SethT" action="edit" filename="/home/five/Pictures/Wand/Hobbies/Art/Fractal Flame/Partial Square (Replicating Edward).flam3" index="0">
+                  <edit filename="" index="0"/>
+               </edit>
+            </edit>
+         </edit>
+      </edit>
+   </edit>
+</flame>
+</flames>
