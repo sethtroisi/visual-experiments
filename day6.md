@@ -19,6 +19,17 @@ Controller Goals:
  * Control "amount" of effect for each channel
  * Control Color more organically
 
+Music Pattern Ideas
+
+  * Ripples: add glitter for high hat, color shift for kick, attentuate or shift left right for bass
+  * Rainbow: shift direction for each note, rotate for kick, color change on bass
+  * Meteor Shower / Tinkle: Trigger (probabilstically on note)
+  * More beatsin8 patterns
+
+Setup ideas:
+
+  * On the legs of a popup tent: They don't touch (unless I also do eves for 8x blades)
+  * On the eves of a popup tent: Good visibility? touching?
 
 Code ideas for Lights
 
@@ -33,16 +44,9 @@ Code ideas for Lights
     * Glitter: Add confetti or simmer
     * Ripple: duh
   * Try out shifting forward frames (or running a small number without drawing)
+  * Beat based effects
+    * Do COLLIDER without colliding
+    * Use beat8 / beat16 + threshold to make several walking patterns
+      * Then shift scew their timebase / phase_offset with beatsin8
+      * Set Color with beatsin8(speed, 0, 255, 0, beatsin(3 * speed / 16))
 
-
-Music Pattern Ideas
-
-  * Ripples: add glitter for high hat, color shift for kick, attentuate or shift left right for bass
-  * Rainbow: shift direction for each note, rotate for kick, color change on bass
-  * Meteor Shower / Tinkle: Trigger (probabilstically on note)
-
-
-Setup ideas:
-
-  * On the legs of a popup tent: They don't touch (unless I also do eves for 8x blades)
-  * On the eves of a popup tent: Good visibility? touching?
